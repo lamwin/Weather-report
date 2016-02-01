@@ -1,0 +1,7 @@
+- This is a weather report app.
+- When the site loads up, a dashboard is displayed with the locations you added to the app.
+- Within the location card, the date with weather reports are displayed.
+- Each new location you add will be saved in your local storage on the client.
+- I'm using the www.wunderground.com weather API to support this app. I'm on the developer plan, so only 500 calls can be made within a day and 10 calls per minute.
+- When using this app, please only add up to 5 locations and please wait a minute before deleting and adding new locations, so I don't get a strike for going over calls limit.
+- I used Backbone.js to build this app with the intention to learn a front-end framework. Some other libraries that I used in this app are Require.js, Underscore.js, jQuery, and Twitter Bootstrap for styling.
